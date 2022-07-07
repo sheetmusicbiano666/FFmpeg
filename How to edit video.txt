@@ -1,0 +1,19 @@
+Convert Video to Photo/Image
+1 Step: Enter "Win+R" and enter "cmd"
+2 Step: Enter "ffmpeg"
+3 Step: Enter "ffmpeg -i Nerwitch66.mp4 image%05d.png"
+End
+
+Convert Photo/Image to Video
+1 Step: Enter "Win+R" and enter "cmd"
+2 Step: Enter "ffmpeg"
+3 Step: Enter "ffmpeg -r 60 -i image%05d.png -pix_fmt yuv420p Zenithwirch666.mp4"
+End
+
+Add Audio in Video
+1 Step: Enter "Win+R" and enter "cmd"
+2 Step: Enter "ffmpeg"
+3 Step: Enter "ffmpeg -i Vindel66.mp3 -i Zenithwirch666.mp4 Convertttt66.mp4"
+End
+
+How to locate Folder in cmd? ---> cd C:\***** or D:\*****

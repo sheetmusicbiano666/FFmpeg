@@ -1,0 +1,6 @@
+1 Step: In disk "C:" need to create folder "ffmpeg"
+2 Step: Click Win+R and enter: "sysdm.cpl"
+3 Step: Click "Environment Variables"
+4 Step: In "System variables" click "Path" and "Edit..."
+5 Step: Add "C:\ffmpeg"
+6 Step: Click "OK"
