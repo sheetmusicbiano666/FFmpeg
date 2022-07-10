@@ -16,4 +16,9 @@ Add Audio in Video
 3 Step: Enter "ffmpeg -i Vindel66.mp3 -i Zenithwirch666.mp4 Convertttt66.mp4"
 End
 
+How to make 100% Working Notes Counter Generator?
+1 Step: Enter "Win+R" and enter "cmd"
+2 Step: Enter "ffmpeg"
+3 Step: Enter "ffmpeg -i Moskwitch.mp4 -i Moskw656a.mov -filter_complex "overlay=0:0" Kondrakt5665.mp4" 
+
 How to locate Folder in cmd? ---> cd C:\***** or D:\*****
