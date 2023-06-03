@@ -1,24 +1,24 @@
 Convert Video to Photo/Image
 1 Step: Enter "Win+R" and enter "cmd"
 2 Step: Enter "ffmpeg"
-3 Step: Enter "ffmpeg -i Nerwitch66.mp4 image%05d.png"
+3 Step: Enter "ffmpeg -i Rush_A.mp4 image%01d.png"
 End
 
 Convert Photo/Image to Video
 1 Step: Enter "Win+R" and enter "cmd"
 2 Step: Enter "ffmpeg"
-3 Step: Enter "ffmpeg -r 60 -i image%05d.png -pix_fmt yuv420p Zenithwirch666.mp4"
+3 Step: Enter "ffmpeg -r 60 -i image%01d.png -pix_fmt yuv420p Rush_B.mp4"
 End
 
 Add Audio in Video
 1 Step: Enter "Win+R" and enter "cmd"
 2 Step: Enter "ffmpeg"
-3 Step: Enter "ffmpeg -i Vindel66.mp3 -i Zenithwirch666.mp4 Convertttt66.mp4"
+3 Step: Enter "ffmpeg -i Rush_B.mp3 -i Rush_B.mp4 Rush_C.mp4"
 End
 
 How to make 100% Working Notes Counter Generator?
 1 Step: Enter "Win+R" and enter "cmd"
 2 Step: Enter "ffmpeg"
-3 Step: Enter "ffmpeg -i Moskwitch.mp4 -i Moskw656a.mov -filter_complex "overlay=0:0" Kondrakt5665.mp4" 
+3 Step: Enter "ffmpeg -i Rush_B.mp4 -i Rush_B.mov -filter_complex "overlay=0:0" Rush_Kontakt.mp4" 
 
 How to locate Folder in cmd? ---> cd C:\***** or D:\*****
